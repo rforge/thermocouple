@@ -1,14 +1,15 @@
-\name{ ThermistorCalibrationEquationHoge5}
-\alias{ ThermistorCalibrationEquationHoge5}
+\name{ ThermistorCalibrationEquationHoge4}
+\alias{ ThermistorCalibrationEquationHoge4}
 \title{Resistance–temperature calibration equation Hoge 1}
-\usage{ ThermistorCalibrationEquationHoge5(Rt, C1, C2, C3)}
-\description{\code{ ThermistorCalibrationEquationHoge5} Resistance–temperature 
-calibration equation Hoge 5}
+\usage{ ThermistorCalibrationEquationHoge4(Rt, A0, A1, A2, A5)}
+\description{\code{ ThermistorCalibrationEquationHoge4} Resistance–temperature 
+calibration equation Hoge 4}
 \arguments{
   \item{Rt}{ resistance measurement for temperature T}
-  \item{C1}{ equation coefficient C1}
-  \item{C2}{ equation coefficient C2}
-  \item{C3}{ equation coefficient C3}
+  \item{A0}{ equation coefficient A0}
+  \item{A1}{ equation coefficient A1}
+  \item{A2}{ equation coefficient A2}
+  \item{A5}{ equation coefficient A5}
 }
 \value{
   \item{T}{temperature}

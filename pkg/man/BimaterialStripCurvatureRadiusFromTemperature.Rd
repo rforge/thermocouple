@@ -29,7 +29,4 @@ The Measurement, Instrumentation and Sensors Handbook
 CRC Press LLC
 }
 \author{Jose Gama}
-\examples{
-
-}
 \keyword{programming}

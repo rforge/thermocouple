@@ -8,4 +8,5 @@ Description: Temperature measurement data, equations and methods for thermocoupl
     wire RTD, thermistors, IC thermometers, bimetallic strips and the ITS-90.
 License: GPL (>= 3)
 LazyData: yes
+LazyLoad: yes
 Depends: R (>= 2.7.0)

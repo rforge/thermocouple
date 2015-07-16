@@ -3,7 +3,7 @@
 \title{Resistance–temperature calibration equation Hoge 1}
 \usage{ ThermistorCalibrationEquationHoge3(Rt, A0, A1, A2, A3, A4)}
 \description{\code{ ThermistorCalibrationEquationHoge3} Resistance–temperature 
-calibration equation Hoge 1}
+calibration equation Hoge 3}
 \arguments{
   \item{Rt}{ resistance measurement for temperature T}
   \item{A0}{ equation coefficient A0}

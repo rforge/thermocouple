@@ -1,7 +1,8 @@
 \name{ ThermocoupleLeadWireExternalResistanceUS}
 \alias{ ThermocoupleLeadWireExternalResistanceUS}
 \title{Calculate the external resistance to an instrument}
-\usage{ ThermocoupleLeadWireExternalResistanceUS(thermocoupleType, thermocoupleLength, thermocoupleGauge, leadWireType, leadWireLength, leadWireGauge)}
+\usage{ ThermocoupleLeadWireExternalResistanceUS(thermocoupleType, thermocoupleLength,
+ thermocoupleGauge, leadWireType, leadWireLength, leadWireGauge)}
 \description{\code{ ThermocoupleLeadWireExternalResistanceUS} 
 Calculates the external resistance to an instrument}
 \arguments{
