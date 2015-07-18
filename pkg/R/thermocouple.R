@@ -713,7 +713,7 @@ RTDnickelResistance <- function(R0, T, A=NA, B=NA, D=NA, F=NA)
 # A, B, C specific constants (optional)
 # http://www.capgo.com/Resources/Temperature/RTDs/RTD.html
 if (T==0) return(R0)
-if(!is.numeric(A) | !is.numeric(B) | !is.numeric(C))
+if(!is.numeric(A) | !is.numeric(B) | !is.numeric(D) | !is.numeric(F))
 {
 A <- 5.485E-3
 B <- 6.650E-6
